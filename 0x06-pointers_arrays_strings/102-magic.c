@@ -1,8 +1,9 @@
 #include <stdio.h>
 
 /**
- * main - magic.
- * Return: 0
+ * main - check the code
+ *
+ * Return: Always 0.
  */
 
 int main(void)
